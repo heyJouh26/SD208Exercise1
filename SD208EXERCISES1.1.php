@@ -10,7 +10,7 @@
 <body>
 
     <?php
-$str = "Jocelyn S.  Amancio";
+$str = "Jocelyn Amancio";
 echo $str;
 
 
